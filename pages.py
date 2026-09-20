@@ -11,7 +11,7 @@ import commands
 import db
 import market
 import portfolio
-from core.fmt import money, pct
+from fmt import money, pct
 
 NAV = [
     "Dashboard",
