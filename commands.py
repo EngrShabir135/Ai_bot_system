@@ -3,8 +3,10 @@ from __future__ import annotations
 
 import numpy as np
 
-from . import bots, market, portfolio
-from .fmt import money, pct
+import bots
+import market
+import portfolio
+from fmt import money, pct
 
 HELP = """**Command reference**
 
