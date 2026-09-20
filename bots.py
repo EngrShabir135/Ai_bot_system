@@ -18,7 +18,7 @@ from typing import Any
 
 import market
 import portfolio
-from .market import ASSETS
+from market import ASSETS
 
 MILESTONES = [
     ("Pilot customers signed", 15),
