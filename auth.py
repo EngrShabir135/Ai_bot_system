@@ -15,7 +15,9 @@ import secrets
 from datetime import datetime, timedelta, timezone
 from typing import Any, Optional
 
-from . import db
+import auth
+import db
+import portfolio
 
 ITERATIONS = 200_000
 MAX_ATTEMPTS = 5
