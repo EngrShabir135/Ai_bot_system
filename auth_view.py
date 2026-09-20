@@ -1,7 +1,9 @@
 """Sign-in and sign-up screen."""
 import streamlit as st
 
-from core import auth, db, portfolio
+import auth
+import db
+import portfolio
 
 DISCLAIMER = (
     "United Union Bank is a demonstration platform. It runs on simulated market data and "
