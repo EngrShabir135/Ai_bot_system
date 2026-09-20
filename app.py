@@ -12,7 +12,9 @@ st.set_page_config(
 )
 
 import db # noqa: E402
-from ui import auth_view, pages, styles  # noqa: E402
+import auth_view
+import pages
+import styles  # noqa: E402
 
 
 @st.cache_resource
