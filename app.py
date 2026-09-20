@@ -15,6 +15,9 @@ import db # noqa: E402
 import auth_view
 import pages
 import styles  # noqa: E402
+import auth
+import db
+import portfolio
 
 
 @st.cache_resource
