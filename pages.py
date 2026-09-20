@@ -5,7 +5,12 @@ import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
 
-from core import auth, bots, commands, db, market, portfolio
+import auth
+import bots
+import commands
+import db
+import market
+import portfolio
 from core.fmt import money, pct
 
 NAV = [
