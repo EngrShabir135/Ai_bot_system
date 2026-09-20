@@ -16,7 +16,8 @@ from __future__ import annotations
 from dataclasses import dataclass
 from typing import Any
 
-from . import market, portfolio
+import market
+import portfolio
 from .market import ASSETS
 
 MILESTONES = [
