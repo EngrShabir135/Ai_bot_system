@@ -11,7 +11,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-from core import db  # noqa: E402
+import db # noqa: E402
 from ui import auth_view, pages, styles  # noqa: E402
 
 
