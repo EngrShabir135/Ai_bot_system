@@ -8,7 +8,7 @@ from __future__ import annotations
 import copy
 from typing import Any, Optional
 
-from . import market
+import market
 
 STARTING_CASH = 100_000.0
 FEE_RATE = 0.001          # 0.10% per trade
