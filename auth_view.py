@@ -64,4 +64,4 @@ def render() -> None:
                     else:
                         st.error(msg)
 
-        #st.markdown(f'<p class="uub-note">"Hi This is United union bank"</p>', unsafe_allow_html=True)
+       st.markdown(f'<p class="uub-note">{DISCLAIMER}</p>', unsafe_allow_html=True)
