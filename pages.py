@@ -26,7 +26,7 @@ NAV = [
 BOT_NAV = {"Bot A · Stocks": "A", "Bot B · Real Estate": "B", "Bot C · Crypto": "C", "Bot D · Ventures": "D"}
 COLORS = {"Stocks": "#C9A45C", "Real Estate": "#5B8DEF", "Crypto": "#9B7BFF", "Ventures": "#3CB8A6", "Cash": "#6F819A"}
 BRASS, STEEL = "#C9A45C", "#4C6A92"
-DISCLAIMER = "Simulated market data and paper-trading funds. United Union Bank is a demonstration, not a licensed bank, and nothing here is investment advice."
+
 
 
 # ------------------------------------------------------------------ helpers
