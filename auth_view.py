@@ -6,8 +6,7 @@ import db
 import portfolio
 
 DISCLAIMER = (
-    "United Union Bank is a demonstration platform. It runs on simulated market data and "
-    "paper-trading funds. No real money moves, and nothing here is investment advice."
+    "United Union Bank"
 )
 
 
